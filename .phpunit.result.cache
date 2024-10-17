@@ -1,0 +1,1 @@
+{"version":1,"defects":{"DynamicConsent\\Tests\\ConsentTest::testGiveConsent":8,"DynamicConsent\\Tests\\ConsentTest::testFindConsent":8},"times":{"DynamicConsent\\Tests\\ConsentTest::testGiveConsent":0.004,"DynamicConsent\\Tests\\ConsentTest::testFindConsent":0.001}}

@@ -1,0 +1,23 @@
+{
+    "name": "entrustinv043/dynamic-consent-library",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Oktavian Bayu Widodo",
+            "email": "oktavian.konsultan@work.bri.co.id"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DynamicConsent\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "DynamicConsent\\Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
